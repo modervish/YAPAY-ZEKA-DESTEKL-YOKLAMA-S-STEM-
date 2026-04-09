@@ -4,19 +4,19 @@ Bu proje, kamera üzerinden yüz algılama ve yapay zeka destekli tanıma ile ot
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
-- 🎥 Gerçek zamanlı kamera erişimi
-- 🧠 Yapay zeka ile yüz tanıma
-- 🔐 Liveness Detection (canlılık kontrolü)
-- 📊 Otomatik yoklama kaydı
-- 🌐 REST API mimarisi
-- 🗄️ Veritabanı yönetimi
-- ⚙️ CI/CD desteği
+-  Gerçek zamanlı kamera erişimi
+-  Yapay zeka ile yüz tanıma
+-  Liveness Detection (canlılık kontrolü)
+-  Otomatik yoklama kaydı
+-  REST API mimarisi
+-  Veritabanı yönetimi
+-  CI/CD desteği
 
 ---
 
-## 🧩 Sistem Bileşenleri
+##  Sistem Bileşenleri
 
 ### YZDYS-13 - Kullanıcı Arayüzü ve Kamera Yönetimi
 - Kamera erişimi (WebRTC / MediaDevices API)
@@ -64,7 +64,7 @@ Bu proje, kamera üzerinden yüz algılama ve yapay zeka destekli tanıma ile ot
 
 ---
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
 - Frontend: React / HTML / CSS / JS
 - Backend: Node.js / Flask / Spring Boot
